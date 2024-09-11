@@ -8,3 +8,19 @@ A Atividade 3 foca em remover elementos repetidos de um array. Para isso, a fun�
 A Atividade 4 tem como objetivo combinar dois arrays em um único array. A função utiliza o método concat, que une os dois arrays fornecidos em um novo array. O método concat não altera os arrays originais, mas retorna um novo array que inclui todos os elementos dos arrays fornecidos na ordem em que aparecem.
 
 A Atividade 5 apresenta a função main, que serve para demonstrar o uso das funções das atividades anteriores. Primeiro, ela gera um array aleatório usando a função da Atividade 1 e exibe esse array. Em seguida, determina e exibe o elemento mais frequente no array usando a função da Atividade 2. Depois, filtra e exibe os elementos únicos do array utilizando a função da Atividade 3. Por fim, concatena o array gerado com um array adicional [100, 200, 300] usando a função da Atividade 4 e exibe o resultado. A função main integra todas essas operações e exibe os resultados para verificar o funcionamento das funções criadas.
+
+-----------------------------------
+Passando pela função do Exercício 1
+Entrada: array [4,9,2,4,6,8,5,8,7,3]
+Saída: Não há elemento mais frequente
+-----------------------------------
+-----------------------------------
+Passando pela função do Exercício 3
+Entrada: array [4,9,2,4,6,8,5,8,7,3]
+Saída: array [9,2,6,5,7,3]
+-----------------------------------
+-----------------------------------
+Passando pela função do Exercício 4
+Entrada: array [4,9,2,4,6,8,5,8,7,3] e array [100, 200, 300]
+Saída: array [4,9,2,4,6,8,5,8,7,3,100,200,300]
+-----------------------------------
